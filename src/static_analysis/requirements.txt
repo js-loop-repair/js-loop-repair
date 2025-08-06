@@ -1,0 +1,12 @@
+func_timeout==4.3.5
+networkx==3.1
+sty==1.0.0rc0
+tqdm
+pysimplegui
+flask
+tinydb
+esprima
+pyyaml
+prettytable==3.9.0
+numpy==1.26.3
+matplotlib==3.8.0
